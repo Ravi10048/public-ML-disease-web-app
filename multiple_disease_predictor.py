@@ -6,9 +6,9 @@ from streamlit_option_menu import option_menu # for no. of pages
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('trained_diabetes_model.sav', 'rb'))
+diabetes_model = pickle.load(open('D:/python/ML model/diabetics/trained_model.sav', 'rb'))
 
-heart_disease_model = pickle.load(open('trained_heart_model.sav','rb'))
+heart_disease_model = pickle.load(open('D:/python/ML model/heart disease/trained_model.sav','rb'))
 
 
 
