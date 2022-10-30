@@ -1,4 +1,4 @@
 scikit-learn
 streamlit
-stream-option-menu==0.3.2
+streamlit-option-menu
 pickle-mixin
